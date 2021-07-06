@@ -2,6 +2,7 @@ Hello,
 
 This is just a test file to learn the git! :)
 
-And now I have editted the the file.
+And now I have editted the the file.s
 
 Thanks
+s
