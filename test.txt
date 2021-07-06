@@ -1,0 +1,5 @@
+Hello,
+
+This is just a test file to learn the git! :)
+
+Thanks
